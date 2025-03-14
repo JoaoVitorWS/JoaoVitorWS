@@ -1,7 +1,7 @@
 # 👋 Hi, I'm João Vitor Westphalen da Silva!
 
 💻 **ADS Student**  
-🎓 Studying at Unisinos (EAD) | 2st Semester  
+🎓 Studying Software Analysis and Development at Unisinos (EAD) | 2st Semester  
 🏆 EF SET C2 English Proficiency  
 🧠 Learning Python
 
